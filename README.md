@@ -1,5 +1,5 @@
 # RocketShoes
-![preview](./preview/RocketShoes.png)
+![preview](./assets/images/RocketShoes.pngpreview/RocketShoes.png)
 
 ## Projeto 💻
 Projeto de um desafio da Rocketseat de desenvolver um mini e-commerce de calçados esportivos.
